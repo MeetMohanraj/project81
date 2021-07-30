@@ -1,0 +1,14 @@
+.project81{
+    background-image:url("12418653-spectrum-of-color-pencils-on-white-background.jpeg") ;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: aquamarine;
+    font-size: 40px;
+}
+#mycanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style:ridge ;
+}
